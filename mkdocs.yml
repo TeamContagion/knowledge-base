@@ -1,0 +1,7 @@
+site_name: Team Contagion's Knowledge Base
+site_url: https://teamcontagion.github.io/knowledge-base
+nav:
+  - Home: index.md
+  - About: about.md
+theme:
+  name: material
