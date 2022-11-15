@@ -1,7 +1,23 @@
 site_name: Team Contagion's Knowledge Base
 site_url: https://teamcontagion.github.io/knowledge-base
+
+repo_name: TeamContagion/knowledge-base
+repo_url: https://github.com/TeamContagion/knowledge-base
+edit_uri: blob/master/docs
+
 nav:
   - Home: index.md
   - About: about.md
+  - Cryptography:
+    - Introduction to Cryptography: crypto/introduction.md
 theme:
   name: material
+  language: en
+  palette:
+    scheme: slate
+    primary: orange
+    accent: cyan
+  icon: 
+    logo: material/biohazard
+  features:
+    - navigation.tabs
