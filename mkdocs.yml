@@ -10,6 +10,8 @@ nav:
   - About: about.md
   - Cryptography:
     - Introduction to Cryptography: crypto/introduction.md
+  - Forensics:
+    - Introduction to Forensics: forensics/introduction.md
 theme:
   name: material
   language: en
