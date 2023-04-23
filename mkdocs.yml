@@ -10,6 +10,7 @@ nav:
   - About: about.md
   - Cryptography:
     - Introduction to Cryptography: crypto/introduction.md
+    - Starting Point: crypto/starting-point.md
   - Forensics:
     - Introduction to Forensics: forensics/introduction.md
 theme:
