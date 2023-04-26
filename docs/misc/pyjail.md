@@ -62,10 +62,13 @@ There are many many of these to choose from based on what you are allowed to do.
 So this code will run ls:
 ```
 class X:
-  __add__ = eval
+  __add__ = open
+  __sub__ = print
  
 x = X()
-x + '__import__("os").system("ls")'
+f = x + 'flag.txt'
+for line in f:
+  x - line
 ```
 Of course, the astute among you will notice that by calling the constructor `X()` we have called a function and will be blocked.
 You would be correct.
