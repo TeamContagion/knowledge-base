@@ -13,6 +13,9 @@ nav:
     - Starting Point: crypto/starting-point.md
   - Forensics:
     - Introduction to Forensics: forensics/introduction.md
+  - Misc:
+    - Introduction to Misc: misc/introduction.md
+    - Pyjails: misc/pyjail.md
 theme:
   name: material
   language: en
