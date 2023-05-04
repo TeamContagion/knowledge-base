@@ -12,6 +12,7 @@ nav:
     - Introduction to Cryptography: crypto/introduction.md
   - Forensics:
     - Introduction to Forensics: forensics/introduction.md
+    - File Forensics: forensics/file-forensics.md
 theme:
   name: material
   language: en
