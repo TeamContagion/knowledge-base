@@ -11,9 +11,19 @@ nav:
   - Cryptography:
     - Introduction to Cryptography: crypto/introduction.md
     - Starting Point: crypto/starting-point.md
+    - Resources: crypto/resources.md
   - Forensics:
     - Introduction to Forensics: forensics/introduction.md
     - File Forensics: forensics/file-forensics.md
+    - Resources: forensics/resources.md
+  - Pwn:
+    - Resources: pwn/resources.md
+  - Web:
+    - Resources: web/resources.md
+  - Rev:
+    - Resources: rev/resources.md
+  - Misc:
+    - Resources: misc/resources.md
 theme:
   name: material
   language: en
